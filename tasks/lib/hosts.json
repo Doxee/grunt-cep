@@ -1,4 +1,14 @@
 {
+    "CC2021": {
+        "flash": {
+            "familyname": "Flash",
+            "name": "Animate",
+            "ids": [ "FLPR" ],
+            "version": { "min": "21.0", "max": "21.9" },
+            "bin": { "win": "Animate.exe", "mac": "Adobe Animate 2021.app" },
+            "x64": true
+        }
+    },
 	"CC2020": {
         "photoshop": {
             "familyname": "Photoshop",
